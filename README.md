@@ -1,2 +1,3 @@
 # ClaseGit
-Clase de prueba de **GITHUB** 
+Clase de **GITHUB** 
+Cualquier cosa
