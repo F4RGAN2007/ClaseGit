@@ -1,0 +1,2 @@
+comando en la carpeta a trabajar (gitbash): git init
+tambien genera una carpeta 
